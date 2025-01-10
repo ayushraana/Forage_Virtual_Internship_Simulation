@@ -1,0 +1,15 @@
+# Here is the background information on your task
+You've just been hired as the newest intern in Citi's Technology Analyst Program. Over the course of your internship, you'll work within the Technology Software Development team, where you'll help to develop Citi's internal systems and products. Today, your team lead has approached you with a new task. Citi's loan management system needs some new features, but before you can dive into the code, you need to understand how the system works. Your team lead has suggested you create a state diagram of the loan management process using the Unified Modeling Language (UML) to ensure you understand the loan workflow. Your state diagram will need to show the various stages of the loan management process, from the initial loan application to the completion of the loan payoff.
+
+Before you get started with your state diagram, your manager has also provided you with a brief overview of the loan process. The loan management process typically starts with a loan application, which is then reviewed and either approved or rejected. If the loan application is approved, the loan is disbursed, and the borrower begins to make regular payments. Over the course of the loan, the loan's status may change depending on the borrower's ability to make payments on time.
+
+As an intern, your task is to draw a state diagram that reflects the loan management process, capturing the key states and transitions to provide a concise representation of the system's behavior. While developing this diagram, you'll learn how to create and interpret state diagrams, and you'll develop a better understanding of how a loan management system works!
+
+**For your first task, you'll be creating a state diagram for the loan management system at Citi. Here are your instructions:** 
+
+1. Before you begin, review the links provided in the Resources section below. Ensure you understand how to use a state diagram to illustrate states, events, and actions within a system. Review the notation used to create a diagram with UML.
+2. Think through the requirements of the loan management process. What situations does your diagram need to cover? Be sure to review the supplemental resources for ideas.
+3. Identify a start and end state for your diagram. How does the loan process begin, and how does it end?
+4. Identify key states in the loan process, as well as the actions that trigger a change between states. The loan application state, for example, might end when the loan is either approved or rejected.
+5. When you're ready to explore the relationships between these states and actions, you can start creating a draft state diagram. You can use the site of your choice to create your diagram, but we suggest diagrams.net. This is a free website that requires no login or registration.
+6. Review your state diagram to ensure it accurately represents the loan management process, and make any revisions as needed. When you're finished, you can save your diagram to your device as a draw.io file.
