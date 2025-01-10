@@ -5,16 +5,16 @@ This repository is dedicated to providing solutions, resources, and insights for
 Step-by-Step Solutions:
 Each simulation is broken down into detailed solutions that guide you through the tasks while explaining the rationale behind the approaches.
 
-### 1.Industry-Specific Insights:
+### 1. Industry-Specific Insights:
 The simulations cover fields such as consulting, finance, technology, law, and more. Gain valuable exposure to the tools, techniques, and methodologies used by top companies in these industries.
 
-### 2.Learning Resources:
+### 2. Learning Resources:
 Links to additional readings, tutorials, and practice exercises to help solidify your understanding of the topics covered in the simulations.
 
-### 3.Professional Best Practices:
+### 3. Professional Best Practices:
 Explore tips for writing professional reports, conducting analyses, and presenting findings effectively, tailored to each industry.
 
-### 4.Case Studies:
+### 4. Case Studies:
 Dive deeper into select projects with extended case studies that highlight key learning outcomes and strategies.
 
 # Why Use This Repository?
